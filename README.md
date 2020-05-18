@@ -16,9 +16,9 @@ JSON object received in private response
 
 ```json
 {
-    "jsonrpc":
-    "2.0", "id":
-    "", "result":
+    "jsonrpc":"2.0",
+    "id":"",
+    "result":
     {
         "mx":"Mx0123****abcd", 
         "state":"3ec14fd7b42260743bcf9a65ff43eef5", 
